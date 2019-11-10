@@ -17,7 +17,7 @@ DEVICE_FRAMEWORK_MANIFEST_FILE += $(DEVICE_PATH)/framework_manifest.xml
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/realme/sdm710
-TARGET_KERNEL_CONFIG := RMX1921_defconfig
+TARGET_KERNEL_CONFIG := cuttlefish_defconfig
 
 BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
 
