@@ -17,8 +17,6 @@
 */
 -->
 
-<!-- Whether the device has outdated qti-telephony-common.jar -->
-    <bool name="config_oldQtiTelephony">false</bool>
 
 <!-- These resources are around just to allow their values to be customized
      for different hardware and product builds.  Do not translate.
